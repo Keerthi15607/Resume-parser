@@ -1,0 +1,10 @@
+[
+    {
+        "filename": "resume1.docx",
+        "skills_found": ["python", "java"],
+        "required_skills": [".net", "java", "python", "c#"],
+        "email": "example@example.com",
+        "phone": "+1234567890",
+        "status": "selected"
+    }
+]
